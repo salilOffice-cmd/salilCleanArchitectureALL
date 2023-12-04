@@ -1,0 +1,11 @@
+D:\DayUsers\SalilDeogade\Official\Dotnet_AssessmentTest2\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\DayUsers\SalilDeogade\Official\Dotnet_AssessmentTest2\Domain\bin\Debug\net7.0\Domain.dll
+D:\DayUsers\SalilDeogade\Official\Dotnet_AssessmentTest2\Domain\bin\Debug\net7.0\Domain.pdb
+D:\DayUsers\SalilDeogade\Official\Dotnet_AssessmentTest2\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DayUsers\SalilDeogade\Official\Dotnet_AssessmentTest2\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\DayUsers\SalilDeogade\Official\Dotnet_AssessmentTest2\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\DayUsers\SalilDeogade\Official\Dotnet_AssessmentTest2\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\DayUsers\SalilDeogade\Official\Dotnet_AssessmentTest2\Domain\obj\Debug\net7.0\Domain.dll
+D:\DayUsers\SalilDeogade\Official\Dotnet_AssessmentTest2\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\DayUsers\SalilDeogade\Official\Dotnet_AssessmentTest2\Domain\obj\Debug\net7.0\Domain.pdb
+D:\DayUsers\SalilDeogade\Official\Dotnet_AssessmentTest2\Domain\obj\Debug\net7.0\ref\Domain.dll
